@@ -1,2 +1,3 @@
 # demorepo
-Complementary Github workshop under Developer Hacks
+Hi! Welcome to the Github workshop!
+Complementary under Developer Hacks-21.
